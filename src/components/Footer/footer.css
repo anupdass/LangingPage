@@ -1,0 +1,61 @@
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 150px;
+}
+
+.footer__logo {
+    letter-spacing: 10px;
+}
+
+
+.footer__container h1 {
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.footer__container p {
+    padding: 5px 0;
+}
+
+
+.footer__logo {
+    flex: 1;
+}
+
+.footer__contact {
+    flex: 1;
+}
+
+.footer__about {
+    flex: 1;
+}
+
+.footer__subscribe {
+    flex: 1;
+}
+
+
+
+
+.footer__email {
+    width: 100%;
+    background-color: #ECF0FC;
+    padding: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.footer__email input {
+    border: none;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    padding: 0 20px;
+    outline: none;
+}

@@ -1,0 +1,22 @@
+.banner__container {
+    margin: 40px 0;
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(79.42deg, #527FF6 15.73%, #E16DD9 79.76%, #FFCC70 112.35%);
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 250px;
+}
+
+.banner__container h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 51px;
+    flex: 2;
+    color: white;
+}

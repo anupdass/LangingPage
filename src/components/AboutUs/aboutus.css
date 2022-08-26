@@ -1,0 +1,39 @@
+.about__container {
+    margin: 120px 0;
+    display: flex;
+}
+
+.about__content {
+    flex: 2;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+
+.about__content h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.about__content h1 {
+    font-family: 'Poppins';
+    max-width: 500px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 61px;
+    color: #1E1C31;
+    padding: 10px 0;
+}
+
+.about__content p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 0.03em;
+    padding: 20px 0;
+}

@@ -1,0 +1,33 @@
+.testimony__main {
+    padding-bottom: 50px;
+}
+
+.testimony__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimony__content h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.testimony__content h1 {
+    max-width: 625px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #1E1C31;
+}

@@ -1,0 +1,32 @@
+.nav__container {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+
+}
+
+.nav__container h1 {
+    font-weight: 700;
+    letter-spacing: 10px;
+}
+
+
+.nav__container ul {
+    display: flex;
+}
+
+.nav__container ul li {
+    margin: 0 20px;
+}
+
+.nav__container ul li a {
+    font-weight: 400;
+}
+
+.nav__container ul li a:hover {
+    color: var(--btn-clr);
+}
+
+.nav__container-icon {
+    display: none;
+}

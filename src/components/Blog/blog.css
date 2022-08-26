@@ -1,0 +1,19 @@
+.post__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 70px 0;
+}
+
+.post__container p {
+    margin: 10px 0;
+}
+
+.post__readMore {
+    color: blue;
+    cursor: pointer;
+}
+
+.post__readMore:hover {
+    color: rgb(114, 114, 250);
+}
